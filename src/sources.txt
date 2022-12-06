@@ -1,0 +1,13 @@
+image:
+- about-banner.png: https://imgs.capitalfm.com/images/231848?crop=16_9&width=660&relax=1&signature=KLHQXpX-zHKKW135-7P36b-oSrM=
+- contact-banner.png: https://www.youtube.com/watch?v=tollGa3S0o8
+- contact-icon.png: https://img.icons8.com/metro/344/contacts.png
+- home-banner.png: https://obs.line-scdn.net/hYUix6WW5GnssbQl1NjsdAihVEVQtMkkvPGFBHnQCW054YkctPTRJGyVWUEp5ZUh4PGBNFHUFCB9xOUUvOm9BTCUJC0gsNkR8amdJTnRUWhgrZEEpLTMbTHlVUR55ORN-a2FAHDQADBgpMRZ7PA/m800x1200
+- home-icon.png: https://img.icons8.com/metro/344/home.png
+- info-icon.png: https://img.icons8.com/metro/344/info.png
+- product-banner.png: https://i.pinimg.com/originals/3c/c8/aa/3cc8aa3f0bb7e46f0b2c3b193bc6bf11.jpg
+- red-taylors-version.jpg: https://obs.line-scdn.net/hYUix6WW5GnssbQl1NjsdAihVEVQtMkkvPGFBHnQCW054YkctPTRJGyVWUEp5ZUh4PGBNFHUFCB9xOUUvOm9BTCUJC0gsNkR8amdJTnRUWhgrZEEpLTMbTHlVUR55ORN-a2FAHDQADBgpMRZ7PA
+
+article:
+- red-taylors-version-caption: https://www.instagram.com/p/CQRUBXtjZXT
+- taylor-swift-biography: https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02?si=RmBpq3WuS1WOrNTPQFqYTQ
